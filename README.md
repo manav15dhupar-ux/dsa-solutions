@@ -37,7 +37,7 @@ This repository is a personal learning and practice space. Solutions may be upda
 This is primarily a personal repository, but improvements, alternative solutions, and optimizations are welcome if you are contributing to the same project.
 
 <!-- codepusher:start -->
-Total solved: 46 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 15, 1200-1599 0, 1600+ 0, Unrated 0
+Total solved: 47 | LeetCode: Easy 25, Medium 7, Hard 0 | Codeforces: 800-1199 15, 1200-1599 0, 1600+ 0, Unrated 0
 
 ## LeetCode
 
@@ -49,6 +49,7 @@ Total solved: 46 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 15
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | c++ | [Solution](./leetcode/0013-roman-to-integer/) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | c++ | [Solution](./leetcode/0014-longest-common-prefix/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | c++ | [Solution](./leetcode/0020-valid-parentheses/) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | c++ | [Solution](./leetcode/0027-remove-element/) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | c++ | [Solution](./leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | c++ | [Solution](./leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | c++ | [Solution](./leetcode/0053-maximum-subarray/) |
