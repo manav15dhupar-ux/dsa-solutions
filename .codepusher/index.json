@@ -28,5 +28,285 @@
     "folder": "0595-big-countries",
     "url": "https://leetcode.com/problems/big-countries/",
     "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1148",
+    "title": "Article Views I",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1148-article-views-i",
+    "url": "https://leetcode.com/problems/article-views-i/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1683",
+    "title": "Invalid Tweets",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1683-invalid-tweets",
+    "url": "https://leetcode.com/problems/invalid-tweets/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "620",
+    "title": "Not Boring Movies",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0620-not-boring-movies",
+    "url": "https://leetcode.com/problems/not-boring-movies/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1527",
+    "title": "Patients With a Condition",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1527-patients-with-a-condition",
+    "url": "https://leetcode.com/problems/patients-with-a-condition/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1667",
+    "title": "Fix Names in a Table",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1667-fix-names-in-a-table",
+    "url": "https://leetcode.com/problems/fix-names-in-a-table/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1342",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1342-number-of-steps-to-reduce-a-number-to-zero",
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+    "language": "c"
+  },
+  {
+    "platform": "leetcode",
+    "number": "9",
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0009-palindrome-number",
+    "url": "https://leetcode.com/problems/palindrome-number/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "175",
+    "title": "Combine Two Tables",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0175-combine-two-tables",
+    "url": "https://leetcode.com/problems/combine-two-tables/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "181",
+    "title": "Employees Earning More Than Their Managers",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0181-employees-earning-more-than-their-managers",
+    "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "182",
+    "title": "Duplicate Emails",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0182-duplicate-emails",
+    "url": "https://leetcode.com/problems/duplicate-emails/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "704",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0704-binary-search",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "875",
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0875-koko-eating-bananas",
+    "url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "167",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0167-two-sum-ii-input-array-is-sorted",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "238",
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0238-product-of-array-except-self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "643",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0643-maximum-average-subarray-i",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0034-find-first-and-last-position-of-element-in-sorted-array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "977",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0977-squares-of-a-sorted-array",
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "191",
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0191-number-of-1-bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "231",
+    "title": "Power of Two",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0231-power-of-two",
+    "url": "https://leetcode.com/problems/power-of-two/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "2220-minimum-bit-flips-to-convert-number",
+    "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "53",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0053-maximum-subarray",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "152",
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0152-maximum-product-subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "13",
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0013-roman-to-integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "2",
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "rating": "",
+    "folder": "0002-add-two-numbers",
+    "url": "https://leetcode.com/problems/add-two-numbers/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "14",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0014-longest-common-prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "28",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "1",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0001-two-sum",
+    "url": "https://leetcode.com/problems/two-sum/",
+    "language": "c++"
+  },
+  {
+    "platform": "leetcode",
+    "number": "20",
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0020-valid-parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "language": "c++"
   }
 ]
