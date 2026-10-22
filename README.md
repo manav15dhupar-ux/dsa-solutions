@@ -37,7 +37,7 @@ This repository is a personal learning and practice space. Solutions may be upda
 This is primarily a personal repository, but improvements, alternative solutions, and optimizations are welcome if you are contributing to the same project.
 
 <!-- codepusher:start -->
-Total solved: 31 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 0, 1200-1599 0, 1600+ 0, Unrated 0
+Total solved: 38 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 7, 1200-1599 0, 1600+ 0, Unrated 0
 
 ## LeetCode
 
@@ -74,4 +74,16 @@ Total solved: 31 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 0,
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | mysql | [Solution](./leetcode/1683-invalid-tweets/) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | mysql | [Solution](./leetcode/1757-recyclable-and-low-fat-products/) |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | c++ | [Solution](./leetcode/2220-minimum-bit-flips-to-convert-number/) |
+
+## Codeforces
+
+| Problem | Title | Rating | Language | Solution |
+| --- | --- | --- | --- | --- |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | cpp | [Solution](./codeforces/71a-way-too-long-words/) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | cpp | [Solution](./codeforces/231a-team/) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | cpp | [Solution](./codeforces/282a-bit/) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | cpp | [Solution](./codeforces/318a-even-odds/) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | cpp | [Solution](./codeforces/617a-elephant/) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | cpp | [Solution](./codeforces/2167a-square/) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | cpp | [Solution](./codeforces/2227a-koshary/) |
 <!-- codepusher:end -->
