@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "leetcode",
+    "number": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "1757-recyclable-and-low-fat-products",
+    "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "584",
+    "title": "Find Customer Referee",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0584-find-customer-referee",
+    "url": "https://leetcode.com/problems/find-customer-referee/",
+    "language": "mysql"
+  },
+  {
+    "platform": "leetcode",
+    "number": "595",
+    "title": "Big Countries",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0595-big-countries",
+    "url": "https://leetcode.com/problems/big-countries/",
+    "language": "mysql"
+  }
+]
