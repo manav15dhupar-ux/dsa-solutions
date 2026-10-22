@@ -37,7 +37,7 @@ This repository is a personal learning and practice space. Solutions may be upda
 This is primarily a personal repository, but improvements, alternative solutions, and optimizations are welcome if you are contributing to the same project.
 
 <!-- codepusher:start -->
-Total solved: 38 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 7, 1200-1599 0, 1600+ 0, Unrated 0
+Total solved: 46 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 15, 1200-1599 0, 1600+ 0, Unrated 0
 
 ## LeetCode
 
@@ -79,11 +79,19 @@ Total solved: 38 | LeetCode: Easy 24, Medium 7, Hard 0 | Codeforces: 800-1199 7,
 
 | Problem | Title | Rating | Language | Solution |
 | --- | --- | --- | --- | --- |
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | cpp | [Solution](./codeforces/71a-way-too-long-words/) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | cpp | [Solution](./codeforces/231a-team/) |
-| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | cpp | [Solution](./codeforces/282a-bit/) |
-| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | cpp | [Solution](./codeforces/318a-even-odds/) |
-| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | cpp | [Solution](./codeforces/617a-elephant/) |
-| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | cpp | [Solution](./codeforces/2167a-square/) |
-| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | cpp | [Solution](./codeforces/2227a-koshary/) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/4a-watermelon/) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/71a-way-too-long-words/) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/158a-next-round/) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/231a-team/) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/236a-boy-or-girl/) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/282a-bit/) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | C++20 (GCC 13-64) | [Solution](./codeforces/318a-even-odds/) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/339a-helpful-maths/) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | C++20 (GCC 13-64) | [Solution](./codeforces/405a-gravity-flip/) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/617a-elephant/) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/2167a-square/) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/2218a-the-67th-integer-problem/) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/2218b-the-67th-6-7-integer-problem/) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/2227a-koshary/) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | C++20 (GCC 13-64) | [Solution](./codeforces/2244a-iskander-and-drawings/) |
 <!-- codepusher:end -->
