@@ -458,5 +458,15 @@
     "folder": "158a-next-round",
     "url": "https://codeforces.com/contest/158/problem/A",
     "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "leetcode",
+    "number": "27",
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "rating": "",
+    "folder": "0027-remove-element",
+    "url": "https://leetcode.com/problems/remove-element/",
+    "language": "c++"
   }
 ]
