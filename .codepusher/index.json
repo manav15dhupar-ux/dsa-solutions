@@ -317,7 +317,7 @@
     "rating": 800,
     "folder": "617a-elephant",
     "url": "https://codeforces.com/contest/617/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -327,7 +327,7 @@
     "rating": 900,
     "folder": "318a-even-odds",
     "url": "https://codeforces.com/contest/318/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -337,7 +337,7 @@
     "rating": 800,
     "folder": "2167a-square",
     "url": "https://codeforces.com/contest/2167/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -347,7 +347,7 @@
     "rating": 800,
     "folder": "2227a-koshary",
     "url": "https://codeforces.com/contest/2227/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -357,7 +357,7 @@
     "rating": 800,
     "folder": "71a-way-too-long-words",
     "url": "https://codeforces.com/contest/71/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -367,7 +367,7 @@
     "rating": 800,
     "folder": "231a-team",
     "url": "https://codeforces.com/contest/231/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
   },
   {
     "platform": "codeforces",
@@ -377,6 +377,86 @@
     "rating": 800,
     "folder": "282a-bit",
     "url": "https://codeforces.com/contest/282/problem/A",
-    "language": "cpp"
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "339A",
+    "title": "Helpful Maths",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "339a-helpful-maths",
+    "url": "https://codeforces.com/contest/339/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "405A",
+    "title": "Gravity Flip",
+    "difficulty": "",
+    "rating": 900,
+    "folder": "405a-gravity-flip",
+    "url": "https://codeforces.com/contest/405/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "236A",
+    "title": "Boy or Girl",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "236a-boy-or-girl",
+    "url": "https://codeforces.com/contest/236/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "2244A",
+    "title": "Iskander and Drawings",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "2244a-iskander-and-drawings",
+    "url": "https://codeforces.com/contest/2244/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "2218A",
+    "title": "The 67th Integer Problem",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "2218a-the-67th-integer-problem",
+    "url": "https://codeforces.com/contest/2218/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "2218B",
+    "title": "The 67th 6-7 Integer Problem",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "2218b-the-67th-6-7-integer-problem",
+    "url": "https://codeforces.com/contest/2218/problem/B",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "4A",
+    "title": "Watermelon",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "4a-watermelon",
+    "url": "https://codeforces.com/contest/4/problem/A",
+    "language": "C++20 (GCC 13-64)"
+  },
+  {
+    "platform": "codeforces",
+    "number": "158A",
+    "title": "Next Round",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "158a-next-round",
+    "url": "https://codeforces.com/contest/158/problem/A",
+    "language": "C++20 (GCC 13-64)"
   }
 ]
