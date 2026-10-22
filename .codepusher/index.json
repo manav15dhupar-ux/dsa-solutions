@@ -308,5 +308,75 @@
     "folder": "0020-valid-parentheses",
     "url": "https://leetcode.com/problems/valid-parentheses/",
     "language": "c++"
+  },
+  {
+    "platform": "codeforces",
+    "number": "617A",
+    "title": "Elephant",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "617a-elephant",
+    "url": "https://codeforces.com/contest/617/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "318A",
+    "title": "Even Odds",
+    "difficulty": "",
+    "rating": 900,
+    "folder": "318a-even-odds",
+    "url": "https://codeforces.com/contest/318/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "2167A",
+    "title": "Square?",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "2167a-square",
+    "url": "https://codeforces.com/contest/2167/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "2227A",
+    "title": "Koshary",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "2227a-koshary",
+    "url": "https://codeforces.com/contest/2227/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "71A",
+    "title": "Way Too Long Words",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "71a-way-too-long-words",
+    "url": "https://codeforces.com/contest/71/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "231A",
+    "title": "Team",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "231a-team",
+    "url": "https://codeforces.com/contest/231/problem/A",
+    "language": "cpp"
+  },
+  {
+    "platform": "codeforces",
+    "number": "282A",
+    "title": "Bit++",
+    "difficulty": "",
+    "rating": 800,
+    "folder": "282a-bit",
+    "url": "https://codeforces.com/contest/282/problem/A",
+    "language": "cpp"
   }
 ]
